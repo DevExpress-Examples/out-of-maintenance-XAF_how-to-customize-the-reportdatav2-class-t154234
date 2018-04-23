@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="CustomizeReportDataExample" Logo="ExpressAppLogo">
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="14.1.5.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <DetailView Id="MyReportDataV2_DetailView">
+      <Layout>
+        <LayoutGroup Id="Main" RelativeSize="100">
+          <LayoutGroup Id="SimpleEditors" RelativeSize="100">
+            <LayoutGroup Id="ReportDataV2" RelativeSize="100" Index="0">
+              <LayoutItem Id="DisplayName" SizeConstraintsType="Default" RelativeSize="6.4777327935222671" />
+              <LayoutItem Id="DataTypeCaption" SizeConstraintsType="Default" RelativeSize="4.8582995951417" Index="1" />
+              <LayoutItem Id="ParametersObjectType" SizeConstraintsType="Default" RelativeSize="4.8582995951417" Index="2" />
+              <LayoutItem Id="Category" ViewItem="Category" SizeConstraintsType="Default" Index="3" RelativeSize="4.8582995951417" IsNewNode="True" />
+              <LayoutItem Id="IsInplaceReport" SizeConstraintsType="Default" RelativeSize="78.94736842105263" Index="4" />
+            </LayoutGroup>
+            <LayoutGroup Id="MyReportDataV2" Direction="Horizontal" RelativeSize="72.8744939271255" Removed="True">
+              <LayoutItem Id="Category" Removed="True" />
+            </LayoutGroup>
+          </LayoutGroup>
+        </LayoutGroup>
+      </Layout>
+    </DetailView>
+  </Views>
+</Application>
