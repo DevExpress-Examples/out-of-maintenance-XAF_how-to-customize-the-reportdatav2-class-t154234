@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportWizardModifyController.cs](./CS/CustomizeReportDataExample.Module.Web/ReportWizardModifyController.cs) (VB: [ReportWizardModifyController.vb](./VB/CustomizeReportDataExample.Module.Web/ReportWizardModifyController.vb))
+* [ReportWizardModifyController.cs](./CS/CustomizeReportDataExample.Module.Win/ReportWizardModifyController.cs) (VB: [ReportWizardModifyController.vb](./VB/CustomizeReportDataExample.Module.Win/ReportWizardModifyController.vb))
+* **[MyReportDataV2.cs](./CS/CustomizeReportDataExample.Module/BusinessObjects/MyReportDataV2.cs) (VB: [MyReportDataV2.vb](./VB/CustomizeReportDataExample.Module/BusinessObjects/MyReportDataV2.vb))**
+* [CustomReportWizardParameters.cs](./CS/CustomizeReportDataExample.Module/CustomReportWizardParameters.cs) (VB: [CustomReportWizardParameters.vb](./VB/CustomizeReportDataExample.Module/CustomReportWizardParameters.vb))
+<!-- default file list end -->
 # How to: Customize the ReportDataV2 Class
 
 
