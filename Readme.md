@@ -8,7 +8,7 @@
 <!-- default file list end -->
 # How to: Customize the ReportDataV2 Class
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t154234)**
+**[[Run Online]](https://codecentral.devexpress.com/t154234/)**
 <!-- run online end -->
 
 
